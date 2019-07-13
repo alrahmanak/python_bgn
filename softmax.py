@@ -16,5 +16,8 @@ def softmax(L):
 
 l = [1,2,3,4]
 r = softmax(l)
+sofr = sum(r)
 for ri in r:
-    print(ri)	
+    print(ri)
+print("input values to softmax: ",l)	
+print("sum of all probabilities of softmax: ",sofr)
