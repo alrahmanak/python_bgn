@@ -7,3 +7,4 @@ Test python programming
 3. matplot1.py - Example 1 of matplot lib
 4. matplot2.py - Example 2 of matplot lib
 5. matplot3.py - Example 3 of matplot lib
+6. softmax.py - Testing softmax function (Udacity)
