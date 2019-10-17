@@ -12,3 +12,4 @@ Test python programming
 4. matplot2.py - Example 2 of matplot lib
 5. matplot3.py - Example 3 of matplot lib
 6. softmax.py - Testing softmax function (Udacity)
+7. testargs.py - Testing command line arguments to a python script
