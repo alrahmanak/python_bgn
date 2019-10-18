@@ -13,3 +13,5 @@ Test python programming
 5. matplot3.py - Example 3 of matplot lib
 6. softmax.py - Testing softmax function (Udacity)
 7. testargs.py - Testing command line arguments to a python script
+8. prog.py - example of argparse module
+9. testmain.py - example of __name__ variable
