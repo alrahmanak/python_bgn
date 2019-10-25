@@ -1,6 +1,7 @@
 # python_bgn
 # Sample programs to try for a Python beginner
 # References: Udacity, https://www.programiz.com
+# Python 3.7.3
 
 Test python programming
 1. python_operations is a jupyter nobebook file. With lot of simple math operations in python

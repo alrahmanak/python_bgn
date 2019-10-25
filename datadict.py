@@ -9,3 +9,7 @@ print(my_dict.get('age'))
 # Trying to access keys which doesn't exist throws error
 # my_dict.get('address')
 # my_dict['address']
+
+# add item
+my_dict['address'] = 'Downtown'  
+print(my_dict)
