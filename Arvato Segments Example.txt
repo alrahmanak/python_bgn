@@ -1,0 +1,7 @@
+Arvato creating segments examples
+
+Reverse unknown data back to NaN and drop the columns with high percentage of missing value.
+Investigate mixed type columns and extract useful information to form new columns.
+Apply one-hot encoding to categorical data.
+Study and preprocess columns with time-related features.
+Apply standard scalar to certain columns and fill missing value with ‘mean’.
