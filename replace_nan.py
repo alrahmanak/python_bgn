@@ -6,3 +6,9 @@ df = pd.DataFrame(mydata)
 df.loc[df['y'] == 'N/A','y'] = np.nan
 print("Completed")
 print(df.head(6))
+
+test_df = pd.read_csv('./test.csv', sep=",")
+print(test_df.info())
+print(test_df.head(5))
+a_column = test_df['A']
+print("a_column:", a_column)
