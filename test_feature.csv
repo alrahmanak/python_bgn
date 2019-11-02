@@ -1,0 +1,5 @@
+attribute;information_level;type;missing_or_unknown
+A;person;categorical;[-1,0]
+B;person;ordinal;[-1,0,9]
+C;person;categorical;[-1,0,3]
+D;person;categorical;[0]
