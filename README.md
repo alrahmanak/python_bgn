@@ -12,3 +12,4 @@ Test python programming
 6. softmax.py - Testing softmax function 
 7. clustering.py - Hierarchical Clustering example
 8. datadict.py - dictionary example
+9. m/eval_model.py - Evaluating model using cross_validation
