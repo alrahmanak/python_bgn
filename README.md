@@ -1,6 +1,5 @@
 # python_bgn
 # Sample programs to try for a Python beginner
-# References: Udacity, https://www.programiz.com
 # Python 3.7.3
 
 Python examples
@@ -16,3 +15,5 @@ Python examples
 10. m/eval_model.py - Evaluating model using cross_validation
 11. scatterplot....py files has different examples to generate scatter plots
 12. 
+
+##### References: Udacity, https://www.programiz.com
