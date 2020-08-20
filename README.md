@@ -1,4 +1,3 @@
-# python_bgn
 # Sample programs to try for a Python beginner
 # Python 3.7.3
 
