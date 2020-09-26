@@ -1,5 +1,5 @@
-# Python commands
-![conda list find](ex_images/conda_find.png?raw=true "Conda List")
+# Windows - env check
+![conda list find](ex_images/conda_find.png?raw=true "check for a package")
 
 
 # Sample programs to try for a Python beginner
