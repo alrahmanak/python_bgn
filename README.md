@@ -1,3 +1,7 @@
+# Python commands
+![conda list find](ex_images/conda_find.png?raw=true "Conda List")
+
+
 # Sample programs to try for a Python beginner
 # Python 3.7.3
 
